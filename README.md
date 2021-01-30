@@ -1,9 +1,12 @@
 # Loan multipage web site
 
-Add JavaScript logic for multipage web site components according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
+Add JavaScript logic for multipage web site components according to the
+technical task from the course
+["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/)
+on Udemy platform.
 
-
-Technical task: https://docs.google.com/document/d/1CjrqmuO8sdrEL8XbQjfSsK4_kcnxD_xAnoCUR66RwVA/edit
+Technical task:
+https://docs.google.com/document/d/1CjrqmuO8sdrEL8XbQjfSsK4_kcnxD_xAnoCUR66RwVA/edit
 
 GitHup Page: https://monsara.github.io/loan/dist
 
@@ -20,11 +23,12 @@ of Android/iOS, etc.
 
 ### JavaScript features
 
--   
+-   Using slider to navigate between pages
+-   Using YouTube Player API for aploading video in popup
 
 ## Libs, frameworks
 
--   
+-
 
 ## Instruments
 
