@@ -1,6 +1,6 @@
 # Loan multipage web site
 
-Add JavaScript logic for multipage web site components according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
+Add logic for multipage web site components in pure JavaScrip according to the technical task from the course ["Practical JavaScript (Advanced)"](https://www.udemy.com/course/javascript_practice/) on Udemy platform.
 
 
 Technical task: https://docs.google.com/document/d/1CjrqmuO8sdrEL8XbQjfSsK4_kcnxD_xAnoCUR66RwVA/edit
