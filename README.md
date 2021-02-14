@@ -25,6 +25,11 @@ of Android/iOS, etc.
 
 -   Using slider to navigate between pages
 -   Using YouTube Player API for aploading video in popup
+-   Creating and appanding difference cards when clicking on plus button in
+    didderencs section
+-   Using MAMP for postin form date on server
+-   Check mail inputs in form
+-   Using phome mask in form
 
 ## Libs, frameworks
 
@@ -39,6 +44,8 @@ of Android/iOS, etc.
 -   Webpack
 -   Chrome DevTools
 -   VS Code
+-   MAMP
+-   PHP Server
 
 ## Developing
 
